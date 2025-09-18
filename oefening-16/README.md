@@ -1,11 +1,11 @@
 Dit is één grote oefening die gericht is op het begrijpen en toepassen van de juiste semantiek binnen HTML5. Zorg ervoor dat je de semantische elementen op de juiste manier gebruikt om de structuur en betekenis van je webpagina correct te definiëren.
 
-### 1. basisstructuur van de HTML-pagina
+### 1. basisstructuur van de HTML-pagina <!-- Klaar -->
 * Maak een nieuwe HTML5-pagina “index.html” met de juiste doctype-declaratie en een `<head>`-sectie.
 * Voeg een paginatitel toe in de `<title>`-tag in het `<head>`-gedeelte.
 * Maak een <body>-element aan voor de inhoud van de pagina
 
-### 2. header & navigatie (nav)
+### 2. header & navigatie (nav) <!-- Klaar -->
 * Binnen de <body>-sectie, voeg je een <header>-element toe met een titel die de naam van je webpagina vertegenwoordigt.
 * Voeg een navigatiemenu toe met ten minste drie links naar verschillende secties op je pagina. Gebruik hiervoor `<nav>` en `<ul>` met `<li>`-elementen.
 
